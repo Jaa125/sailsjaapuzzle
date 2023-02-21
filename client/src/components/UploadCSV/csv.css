@@ -1,0 +1,11 @@
+.csv-container{
+    display : flex;
+    align-items : center;
+    justify-content: space-between;
+    flex-direction: column
+}
+.instagram-button{
+    cursor: pointer !important
+}
+.instagram-button{
+  }
